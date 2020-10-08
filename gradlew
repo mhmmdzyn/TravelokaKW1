@@ -26,6 +26,8 @@ die ( ) {
     exit 1
 }
 
+#zein ganteng
+
 # OS specific support (must be 'true' or 'false').
 cygwin=false
 msys=false
